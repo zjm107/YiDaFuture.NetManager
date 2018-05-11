@@ -1,0 +1,11 @@
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\bin\Debug\YiDaFuture.Cache.Base.dll
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\bin\Debug\YiDaFuture.Cache.Base.pdb
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\obj\Debug\YiDaFuture.Cache.Base.csproj.CoreCompileInputs.cache
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\obj\Debug\YiDaFuture.Cache.Base.dll
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\obj\Debug\YiDaFuture.Cache.Base.pdb
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\bin\Debug\YiDaFuture.Cache.Base.dll
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\bin\Debug\YiDaFuture.Cache.Base.pdb
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\obj\Debug\YiDaFuture.Cache.Base.csprojAssemblyReference.cache
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\obj\Debug\YiDaFuture.Cache.Base.csproj.CoreCompileInputs.cache
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\obj\Debug\YiDaFuture.Cache.Base.dll
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Cache\YDFuture.Cache.Base\obj\Debug\YiDaFuture.Cache.Base.pdb

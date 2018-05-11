@@ -1,0 +1,2 @@
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Token\obj\Debug\YiDaFuture.Util.Token.csprojAssemblyReference.cache
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Token\obj\Debug\YiDaFuture.Util.Token.csproj.CoreCompileInputs.cache

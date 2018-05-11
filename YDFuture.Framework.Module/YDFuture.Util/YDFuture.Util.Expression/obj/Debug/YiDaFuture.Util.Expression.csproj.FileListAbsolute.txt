@@ -1,0 +1,11 @@
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\bin\Debug\YiDaFuture.Util.Expression.dll
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\bin\Debug\YiDaFuture.Util.Expression.pdb
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\obj\Debug\YiDaFuture.Util.Expression.csproj.CoreCompileInputs.cache
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\obj\Debug\YiDaFuture.Util.Expression.dll
+D:\YDFutureDoc\sourceCode\YiDaOffice\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\obj\Debug\YiDaFuture.Util.Expression.pdb
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\bin\Debug\YiDaFuture.Util.Expression.dll
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\bin\Debug\YiDaFuture.Util.Expression.pdb
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\obj\Debug\YiDaFuture.Util.Expression.csprojAssemblyReference.cache
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\obj\Debug\YiDaFuture.Util.Expression.csproj.CoreCompileInputs.cache
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\obj\Debug\YiDaFuture.Util.Expression.dll
+D:\YiDaFuture.NetManager\YDFuture.Framework.Module\YDFuture.Util\YDFuture.Util.Expression\obj\Debug\YiDaFuture.Util.Expression.pdb
